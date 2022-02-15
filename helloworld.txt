@@ -1,1 +1,9 @@
-system.out.println("Hello World");
+String thirsty="yes";
+if(thirsty=="yes")
+{
+system.out.println("dring water");
+}
+else{
+system.out.println("do work");
+}
+ 
